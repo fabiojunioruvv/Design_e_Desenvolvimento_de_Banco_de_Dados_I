@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo_conceitual" id="9E807912-5AC0-A072-7802-240D15878DBB" version="3.5">
-<createdBy>User</createdBy>
-<createdTime>2020-03-23 16:33:25 UTC</createdTime>
-<ownerDesignName>modelo_conceitual</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>9E807912-5AC0-A072-7802-240D15878DBB</designId>
-</OSDM_Design>

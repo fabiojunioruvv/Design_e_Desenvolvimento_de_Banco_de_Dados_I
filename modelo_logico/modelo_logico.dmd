@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelo_logico" id="BAC22AC6-C4A7-9EC7-F42C-37375A6361E0" version="3.5">
-<createdBy>User</createdBy>
-<createdTime>2020-03-19 19:45:10 UTC</createdTime>
-<ownerDesignName>Posto_de_Gasolina</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>BAC22AC6-C4A7-9EC7-F42C-37375A6361E0</designId>
-</OSDM_Design>
