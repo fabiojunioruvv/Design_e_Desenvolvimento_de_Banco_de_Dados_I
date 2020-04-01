@@ -7,4 +7,10 @@
 
 ## Posto de gasolina
 
-O cenário será basicamente um posto de gasolina situado no centro de uma cidade, diariamente presta serviço para centenas de veículos toda semana. O posto possui 7 funcionários, sendo 5 frentistas e 2 responsáveis pela loja de conveniência. Ele simplesmente funciona na seguinte forma: o cliente chega ao estabelecimento com seu veículo (ou não) e pede para que os frentistas o abasteçam, sendo também, apenas para comprar um produto na loja de conveniência, ou ambos.
+O posto de gasolina é responsável por abastecer diversos veículos, além de oferecer outros serviços, como revisão do motor, calibrar pneu, troca de óleo, limpeza do para-brisa além de vender produtos na loja de conveniências.
+
+Além do serviço, o estabelecimento possui funcionários responsáveis por atender os clientes, sendo frentistas e atendentes. Como também, um administrador responsável por monitorar e manter contado com o fornecedor para repor os tanques de combustíveis e o estoque da loja de conveniência.
+
+O posto não oferece serviço apenas para clientes que chegam com seus veículos (carro, moto, caminhão etc.), como também, pessoas que apenas estão para comprar algum produto na loja de conveniência.
+
+[![Posto de gasolina](https://www.rescuecursos.com/wp-content/uploads/elementor/thumbs/Posto-o3gtuu95zctqbwh4z9j0iinlujjam76dsq5w9oqmkw.jpg "Posto de gasolina")](https://www.rescuecursos.com/wp-content/uploads/elementor/thumbs/Posto-o3gtuu95zctqbwh4z9j0iinlujjam76dsq5w9oqmkw.jpg "Posto de gasolina")
