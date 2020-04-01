@@ -13,4 +13,4 @@ Além do serviço, o estabelecimento possui funcionários responsáveis por aten
 
 O posto não oferece serviço apenas para clientes que chegam com seus veículos (carro, moto, caminhão etc.), como também, pessoas que apenas estão para comprar algum produto na loja de conveniência.
 
-[![Posto de gasolina](https://www.rescuecursos.com/wp-content/uploads/elementor/thumbs/Posto-o3gtuu95zctqbwh4z9j0iinlujjam76dsq5w9oqmkw.jpg "Posto de gasolina")](https://www.rescuecursos.com/wp-content/uploads/elementor/thumbs/Posto-o3gtuu95zctqbwh4z9j0iinlujjam76dsq5w9oqmkw.jpg "Posto de gasolina")
+![alt text](https://github.com/AlexandreMuller/Design_e_Desenvolvimento_de_Banco_de_Dados_I/blob/master/Images/Posto%20de%20gasolina.webp)
