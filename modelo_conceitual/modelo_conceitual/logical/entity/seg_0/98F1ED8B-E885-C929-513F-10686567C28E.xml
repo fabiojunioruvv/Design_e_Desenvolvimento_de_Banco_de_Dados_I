@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="98F1ED8B-E885-C929-513F-10686567C28E" name="Fornecedor">
+<createdBy>User</createdBy>
+<createdTime>2020-04-03 16:53:40 UTC</createdTime>
+<ownerDesignName>modelo_conceitual</ownerDesignName>
+<engineerTo>
+<item key="27201BB3-97D5-6252-F32D-1E900D3B7C7C" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>
