@@ -1,7 +1,7 @@
 # Cenário
 **Integrantes:**
  - Alexandre Augusto Müller
- - Fabio *
+ - Fabio Proscópio
  - Lucas Eler Tozato
  - Natan Risso Epifanio
 
