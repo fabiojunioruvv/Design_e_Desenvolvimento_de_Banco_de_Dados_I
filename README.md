@@ -19,8 +19,10 @@
 3) Qual serviço o cliente escolheu?
 4) Quais ferramentas são utilizadas nos serviços?
 5) As ferramentas estão no estoque ou em falta?
-6) Quais meus fornecedores e o que recebo de cada um deles?
-7) 
-8) 
+6) Quais são meus fornecedores e o que recebo de cada um deles?
+7) Qual o preço de cada serviço?
+8) O serviço escolhido é gratuito ou pago?
+9) Quais os serviços oferecidos pelo estabelecimento?
+10) 
 
 <p align="center"><img width="590px" height="416" src="https://github.com/AlexandreMuller/Design_e_Desenvolvimento_de_Banco_de_Dados_I/blob/master/Images/Posto%20de%20gasolina.webp"></p>
